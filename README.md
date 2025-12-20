@@ -1,16 +1,76 @@
-## Hi there 👋
+# This Repository Is Intentionally Incomplete
 
-<!--
-**Frank3230/Frank3230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository exists to document **how I learn to build software seriously**.
 
-Here are some ideas to get you started:
+At the moment, it does **not** solve a real-world problem.  
+That is deliberate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most projects start with tools. This one starts with **questions, constraints, and decisions**.
+
+---
+
+## What I’m Exploring
+
+This repository will evolve through experiments and small systems related to:
+
+- **Full-Stack Development** — not frameworks, but how frontends, backends, and data actually interact
+- **Cybersecurity** — understanding failure modes, attack surfaces, and defensive thinking
+- **Game Development** — systems, state, performance, and player-facing complexity
+
+These areas overlap more than people admit. I’m interested in that overlap.
+
+---
+
+## What This Is *Not*
+
+- Not a polished product
+- Not a tutorial repository
+- Not a collection of random features
+- Not a showcase of buzzwords
+
+If you’re looking for a finished app, this repo will disappoint you — at least for now.
+
+---
+
+## What I Currently Don’t Know (and Want to Understand)
+
+- How to design systems that **fail predictably**
+- Where abstraction actually helps — and where it hides problems
+- How security decisions impact performance and usability
+- How game-like constraints (state, latency, feedback loops) apply to non-game systems
+
+This repository exists to make those gaps visible, not to hide them.
+
+---
+
+## How This Repository Will Grow
+
+Progress here will be incremental and opinionated.
+
+When something is added, it will usually include:
+- *Why* it exists
+- *What problem it tries to explore*
+- *What trade-offs were consciously accepted*
+- *What is still broken or incomplete*
+
+Some experiments may be abandoned. That will be documented too.
+
+---
+
+## Definition of “Done”
+
+A section, module, or experiment is considered “done” when:
+- I can clearly explain **why it was built this way**
+- I understand its main weaknesses
+- I can justify whether it should or should not be extended further
+
+“Working” is not the same as “understood”.
+
+---
+
+## If You’re Reading This
+
+This repository is not meant to impress quickly.  
+It’s meant to **age well**.
+
+If you come back later and see real code, real mistakes, and real reasoning — then it’s doing its job.
