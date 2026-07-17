@@ -1,76 +1,53 @@
-# Este Repositório Está Intencionalmente Incompleto
+# Olá, estou a aprender a construir software com seriedade. 🏗️
 
-Este repositório existe para documentar **como estou a aprender a construir software de forma séria**.
-
-Neste momento, **não resolve um problema real**.  
-Isso é intencional.
-
-A maioria dos projectos começa pelas ferramentas.  
-Este começa por **perguntas, restrições e decisões**.
+> **Este Repositório Está Intencionalmente Incompleto.**
+> Este repositório existe para documentar o meu processo de aprendizagem na construção de software de forma séria. De momento, não resolve nenhum problema do mundo real. Isso é deliberado. A maioria dos projetos começa pelas ferramentas; este começa com perguntas, restrições e decisões.
 
 ---
 
-## O Que Estou a Explorar
-
+### 🔍 O Que Estou a Explorar
 Este repositório irá evoluir através de experiências e pequenos sistemas relacionados com:
+* **Desenvolvimento Full-Stack:** Não apenas sobre frameworks, mas sim sobre como o frontend, o backend e os dados realmente interagem.
+* **Cibersegurança:** Compreender modos de falha, superfícies de ataque e mentalidade defensiva.
+* **Desenvolvimento de Jogos:** Sistemas, estado, performance e a complexidade orientada ao jogador.
 
-- **Full-Stack Development** — não frameworks, mas como frontend, backend e dados realmente interagem
-- **Cibersegurança** — compreensão de modos de falha, superfícies de ataque e pensamento defensivo
-- **Desenvolvimento de Jogos** — sistemas, estado, performance e complexidade visível para o utilizador
+*Estas áreas sobrepõem-se mais do que as pessoas admitem. Estou interessado nessa interseção.*
 
-Estas áreas cruzam-se mais do que normalmente se admite.  
-É nesse cruzamento que estou interessado.
+### 🚫 O Que Isto Não É
+* Não é um produto finalizado ou polido.
+* Não é um repositório de tutoriais.
+* Não é uma coleção de funcionalidades aleatórias.
+* Não é uma montra de palavras da moda (*buzzwords*).
 
----
+*Se estás à procura de uma aplicação terminada, este repositório vai desiludir-te — pelo menos por agora.*
 
-## O Que Isto *Não* É
+### 🧠 O Que Ainda Não Sei (e Quero Compreender)
+* Como desenhar sistemas que falham de forma previsível.
+* Onde é que a abstração realmente ajuda — e onde é que ela esconde problemas.
+* Como as decisões de segurança afetam a performance e a usabilidade.
+* Como as restrições típicas de jogos (estado, latência, loops de feedback) se aplicam a sistemas que não são jogos.
 
-- Não é um produto final
-- Não é um repositório de tutoriais
-- Não é uma colecção aleatória de funcionalidades
-- Não é uma montra de buzzwords
+*Este repositório existe para tornar essas lacunas visíveis, não para as esconder.*
 
-Se estás à procura de uma aplicação acabada, este repositório vai desiludir — pelo menos por agora.
+### 🌱 Como Este Repositório Irá Crescer
+O progresso aqui será incremental e opinativo. Quando algo for adicionado, normalmente incluirá:
+* **Por que motivo existe.**
+* **Que problema tenta explorar.**
+* **Que compromissos (*trade-offs*) foram aceites conscientemente.**
+* **O que ainda está partido ou incompleto.**
 
----
+*Algumas experiências podem ser abandonadas. Isso também será documentado.*
 
-## O Que Ainda Não Sei (e Quero Compreender)
-
-- Como desenhar sistemas que **falham de forma previsível**
-- Onde a abstração realmente ajuda — e onde apenas esconde problemas
-- Como decisões de segurança afectam performance e usabilidade
-- Como restrições típicas de jogos (estado, latência, loops de feedback) se aplicam a sistemas não lúdicos
-
-Este repositório existe para tornar estas lacunas visíveis, não para as esconder.
-
----
-
-## Como Este Repositório Vai Crescer
-
-O progresso aqui será incremental e opinativo.
-
-Quando algo for adicionado, normalmente incluirá:
-- *Porque existe*
-- *Que problema tenta explorar*
-- *Que trade-offs foram aceites conscientemente*
-- *O que continua quebrado ou incompleto*
-
-Algumas experiências poderão ser abandonadas.  
-Isso também será documentado.
-
----
-
-## Definição de “Concluído”
-
+### ✅ Definição de “Concluído”
 Uma secção, módulo ou experiência é considerada “concluída” quando:
-- Consigo explicar claramente **porque foi construída desta forma**
-- Compreendo as suas principais fragilidades
-- Consigo justificar se deve — ou não — ser estendida no futuro
+* Consigo explicar claramente por que razão foi construída desta forma.
+* Compreendo as suas principais fraquezas.
+* Consigo justificar se deve ou não ser expandida no futuro.
 
-“Funcionar” não é o mesmo que “ser compreendido”.
+**“Funcionar” não é o mesmo que “compreender”.**
 
 ---
-
+*If you’re reading this / Se estás a ler isto: este repositório não foi feito para impressionar rapidamente. Foi feito para envelhecer bem. Se voltares mais tarde e vires código real, erros reais e raciocínios reais — então está a cumprir o seu papel.*
 ## Se Estás a Ler Isto
 
 Este repositório não foi feito para impressionar rapidamente.  
